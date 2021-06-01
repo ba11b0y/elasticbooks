@@ -20,6 +20,6 @@ pytz==2018.5
 six==1.10.0
 SpeechRecognition==3.6.3
 textract==1.6.1
-urllib3==1.24
+urllib3==1.26.5
 xlrd==1.0.0
 XlsxWriter==1.1.2
